@@ -1,0 +1,91 @@
+ * {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ .header{
+	 
+	 height:350px;
+	 background: #69d2e7;
+ }
+
+.logo b{
+	height:50px;
+	width:auto;
+	text-align:center-left;
+	color:#fff;
+	font-size:30px;
+	
+} 
+
+.header h2{
+	text-align:center;
+	color:#fff;
+	font-size:35px;
+	font-style:bold;
+}
+
+.header P{
+	text-align:center;
+	color:#fff;
+	font-size:18px;
+	font-style:bold;
+}
+
+.portfolio{
+	 height:350px;
+	 background: #f1f1f1;
+}
+
+..portfolio h2,b {
+	text-align:center;
+	color:black;
+}
+
+.services{
+	 height:300px;
+	 background: #fa6900;
+}
+.services{
+	color:#fff;
+	text-align:center;
+}
+
+
+
+.testimonials{
+	height:350px;
+	background:#f1f1f1;
+}
+
+.testimonials h2,span{
+	text-align:center;
+	color:black;
+	
+}
+
+.about{
+	height:300px;
+	background:#fa6900;
+	}
+
+.about h2,p{
+	text-align:center;
+	color:#fff;
+	
+}
+
+.footer{
+		color:#fff;
+	}
+	
+.foeter-top{
+	
+	height:450px;
+	 background:f1f1f1 #;
+}
+
+.foeter-bottom{
+	height:80px;
+	 background: #69d2e7;
+}
